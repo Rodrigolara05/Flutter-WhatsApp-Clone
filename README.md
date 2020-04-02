@@ -36,7 +36,7 @@ Si deseas conocer la creación paso a paso del aplicativo movil, una explicació
   Programación en nuevas tecnologias,
   Y mas!
     
-* **Flutter UI: Desarrollando WhatsApp desde cero || Material Design** -  [Enlace](https://www.youtube.com/watch?v=x-lpMDZaHo8&t=17s)
+* **Flutter UI: Desarrollando WhatsApp desde cero || Material Design** -  [Enlace](https://youtu.be/x-lpMDZaHo8)
 
 ## Enlace 🔗
 
